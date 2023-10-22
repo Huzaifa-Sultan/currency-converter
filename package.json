@@ -1,0 +1,21 @@
+{
+  "name": "currency-converter_07",
+  "version": "7.0.0",
+  "description": "",
+  "main": "app.ts",
+  "bin": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.6"
+  }
+}
